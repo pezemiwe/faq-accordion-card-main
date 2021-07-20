@@ -1,6 +1,8 @@
 const faqs = document.querySelectorAll(".faq");
 
 function deActivate() {
+  const acts = document.querySelectorAll(".faq.active");
+
   acts.forEach((faq) => {
     faq.classList.toggle("active");
   });

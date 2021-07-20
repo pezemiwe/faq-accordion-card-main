@@ -1,5 +1,7 @@
 # Frontend Mentor - FAQ accordion card
 
+## Url: [https://pezemiwe.github.io/faq-accordion-card-main/](https://pezemiwe.github.io/faq-accordion-card-main/)
+
 ![Design preview for the FAQ accordion card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
