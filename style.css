@@ -15,6 +15,7 @@ body {
 display: flex;
 align-items: center;
 justify-content: center;
+margin: 0% 1%;
 }
 .accordionbg {
     background-color: hsl(0, 0%, 100%);
@@ -114,7 +115,7 @@ p {
     }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 800px) {
 .accordionbg {
         background-image:  url("./images/bg-pattern-mobile.svg") ;
         background-repeat: no-repeat;
