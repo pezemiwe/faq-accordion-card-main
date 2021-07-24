@@ -15,7 +15,7 @@ body {
 display: flex;
 align-items: center;
 justify-content: center;
-margin: 0% 1%;
+padding: 1%;
 }
 .accordionbg {
     background-color: hsl(0, 0%, 100%);
